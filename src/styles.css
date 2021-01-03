@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.FruitsWeKnow {
+  font-size: 2rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+body {
+  background-color: #e1e1dd;
+  color: black;
+}
+
+input {
+  height: 2rem;
+  width: 75%;
+  padding: 0.5rem;
+  text-align: center;
+  font-size: 2rem;
+  border: 1px solid black;
+  border-radius: 10rem;
+}
